@@ -62,10 +62,10 @@ I am a self-taught passionate <img src="https://media.giphy.com/media/WUlplcMpOC
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vickey7&date_format=j%20M%5B%20Y%5D&border=3AEAFF&ring=37EAFF&background=220C0C&currStreakNum=3F49FF&dates=B9EB04&sideNums=FF2572&currStreakLabel=EB4C09&stroke=37EB31&sideLabels=F7FF04)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vickey7&theme=radical&show_icons=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ayus3h&date_format=j%20M%5B%20Y%5D&border=3AEAFF&ring=37EAFF&background=220C0C&currStreakNum=3F49FF&dates=B9EB04&sideNums=FF2572&currStreakLabel=EB4C09&stroke=37EB31&sideLabels=F7FF04)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayus3h&theme=radical&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vickey7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayus3h&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
