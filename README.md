@@ -2,7 +2,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTRjOTBiMjNlNWQ1YWFhZmU3MjJlY2U1NzIxNmU4M2I0ZGI5OGIxMyZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/vickey-kumar22">
+  <a href="https://www.linkedin.com/in/ayush-yadav-57134728b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
@@ -33,7 +33,7 @@ I am a self-taught passionate <img src="https://media.giphy.com/media/WUlplcMpOC
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- 📲 Connect with me: [![Linkedin Badge](https://img.shields.io/badge/-Ayush-blue?style=flat&logo=Linkedin&logoColor=white)(https://www.linkedin.com/in/ayush-yadav-57134728b/)
+- 📲 Connect with me: [![Linkedin Badge](https://img.shields.io/badge/-Ayush-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-yadav-57134728b/)
 
 - :mailbox:How to reach me: **vickeykr2273@gmail.com**.
 
